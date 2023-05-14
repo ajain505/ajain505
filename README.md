@@ -1,7 +1,7 @@
 
 ###                                                    🌟 Hey there, I'm Aastha Kothari! 🌟
 
-🎨 Frontend Developer | Creative Enthusiast | Dreamer 🌈
+🎨 Frontend Developer | Creative Enthusiast | Dreamer 
 
 🚀 Passionate about crafting immersive web experiences, I'm on an exciting journey of pursuing Frontend Development. 
 
