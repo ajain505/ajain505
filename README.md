@@ -2,11 +2,11 @@
 
                                                     🎨 Frontend Developer | Creative Enthusiast | Dreamer 🌈
 
-                                  🚀 Pursuing Frontend Development with a passion for crafting immersive web experiences. ✨
+                                   🚀 Pursuing Frontend Development with a passion for crafting immersive web experiences. ✨
 
-                         🌟 Transforming ideas into captivating visuals and interactive designs that leave a lasting impression. 💫
+                           🌟 Transforming ideas into captivating visuals and interactive designs that leave a lasting impression. 💫
 
-                            💡 Embracing the power of HTML, CSS, and JavaScript to bring creativity to life in the digital realm. 🎉
+                           💡 Embracing the power of HTML, CSS, and JavaScript to bring creativity to life in the digital realm. 🎉
 
                       🌱 Constantly seeking inspiration and exploring innovative trends to stay at the forefront of web development. 🌐
 
