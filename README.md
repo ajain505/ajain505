@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello folks👋, I'm Aastha Kothari 
 
 <!--
-**ajain505/ajain505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Frontend Developer | Creative Enthusiast | Dreamer 🌈
 
-Here are some ideas to get you started:
+🚀 Pursuing Frontend Development with a passion for crafting immersive web experiences. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌟 Transforming ideas into captivating visuals and interactive designs that leave a lasting impression. 💫
+
+💡 Embracing the power of HTML, CSS, and JavaScript to bring creativity to life in the digital realm. 🎉
+
+🌱 Constantly seeking inspiration and exploring innovative trends to stay at the forefront of web development. 🌐
+
+🎯 Dedicated to creating user-centered designs that not only look beautiful but also provide seamless functionality. 🔍
+
+✨ Let's collaborate, learn, and build together! Excited to be a part of the ever-evolving world of frontend development. 🤝
 -->
