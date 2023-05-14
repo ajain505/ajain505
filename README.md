@@ -1,5 +1,5 @@
 
-###                                                    🌟 Hey there, I'm Aastha Kothari! 🌟
+###                                                    👋 Hey there, I'm Aastha Kothari! 🌟
 
 🎨 Frontend Developer | Creative Enthusiast | Dreamer 
 
