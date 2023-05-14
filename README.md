@@ -1,4 +1,4 @@
-###                                                              Hello folks👋, I'm Aastha Kothari 
+###                                                          Hello folks👋, I'm Aastha Kothari 
 
 🎨 Frontend Developer | Creative Enthusiast | Dreamer 🌈
 
